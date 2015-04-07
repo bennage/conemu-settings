@@ -235,7 +235,7 @@
 			<value name="DragPanel" type="hex" data="02"/>
 			<value name="DragPanelBothEdges" type="hex" data="00"/>
 			<value name="KeyBarRClick" type="hex" data="01"/>
-			<value name="StatusBar.Show" type="hex" data="01"/>
+			<value name="StatusBar.Show" type="hex" data="00"/>
 			<value name="StatusBar.Flags" type="dword" data="00000002"/>
 			<value name="StatusFontFace" type="string" data="Source Code Pro"/>
 			<value name="StatusFontCharSet" type="dword" data="00000000"/>
@@ -590,7 +590,7 @@
 				<key name="Task4" modified="2015-04-03 18:09:57" build="150331">
 					<value name="Name" type="string" data="{Shells::PowerShell (Admin)}"/>
 					<value name="Flags" type="dword" data="00000000"/>
-					<value name="Hotkey" type="dword" data="00000000"/>
+					<value name="Hotkey" type="dword" data="00115b41"/>
 					<value name="GuiArgs" type="string" data=""/>
 					<value name="Cmd1" type="string" data="%WinDir%\system32\WindowsPowerShell\v1.0\PowerShell.exe -new_console:a"/>
 					<value name="Active" type="dword" data="00000000"/>

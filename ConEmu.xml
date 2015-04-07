@@ -394,7 +394,7 @@
 				<value name="SetFocusChild" type="dword" data="00000000"/>
 				<value name="ChildSystemMenu" type="dword" data="00000000"/>
 				<value name="Multi.NewConsole" type="dword" data="00005b57"/>
-				<value name="Multi.NewConsoleShift" type="dword" data="00105b57"/>
+				<value name="Multi.NewConsoleShift" type="dword" data="00001154"/>
 				<value name="Multi.CmdKey" type="dword" data="00005b58"/>
 				<value name="Multi.NewWindow" type="dword" data="00000000"/>
 				<value name="Multi.NewConsolePopup" type="dword" data="00005b4e"/>
@@ -422,7 +422,7 @@
 				<value name="Multi.GroupInput" type="dword" data="00005d47"/>
 				<value name="Multi.Detach" type="dword" data="00000000"/>
 				<value name="Multi.Close" type="dword" data="00005b2e"/>
-				<value name="CloseTabKey" type="dword" data="00125b2e"/>
+				<value name="CloseTabKey" type="dword" data="00001157"/>
 				<value name="CloseGroupKey" type="dword" data="00115b2e"/>
 				<value name="CloseGroupPrcKey" type="dword" data="00000000"/>
 				<value name="CloseAllConKey" type="dword" data="00000000"/>
@@ -558,9 +558,9 @@
 				<value name="DndRKey" type="hex" data="a2"/>
 				<value name="WndDragKey" type="dword" data="00121101"/>
 			</key>
-			<key name="Tasks" modified="2015-04-03 18:09:57" build="150331">
+			<key name="Tasks" modified="2015-04-07 14:46:34" build="150331">
 				<value name="Count" type="dword" data="00000008"/>
-				<key name="Task1" modified="2015-04-03 18:09:57" build="150331">
+				<key name="Task1" modified="2015-04-07 14:46:34" build="150331">
 					<value name="Name" type="string" data="{Shells::cmd}"/>
 					<value name="Flags" type="dword" data="00000000"/>
 					<value name="Hotkey" type="dword" data="00000000"/>
